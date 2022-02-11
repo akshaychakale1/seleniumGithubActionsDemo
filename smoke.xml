@@ -7,7 +7,8 @@
     <test name="Test" parallel="false">
         <classes>
           <!-- <class name="qaAutomation_TheXFuture.EnterpriseSmokeTest"/> -->
-       <class name="qaAutomation_TheXFuture.StartupSmokeTest"/>
+          <!-- <class name="qaAutomation_TheXFuture.StartupSmokeTest"/> -->
+          <class name="aAutomation_TheXFuture.TxFAdminTest"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
