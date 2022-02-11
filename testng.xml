@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+    <listeners>
+        <listener class-name="reusableComponents.ListenersImplementation" />
+    </listeners>
+    <test name="Test" parallel="false">
+
+        <classes>
+<!--            <class name="qaAutomation_TheXFuture.TxfEnterpriseTest"/>-->
+<!--            <class name="qaAutomation_TheXFuture.TxfStartupTest"/>-->
+<!--            <class name="qaAutomation_TheXFuture.TxfAdminTest"/>-->
+<!--            <class name="qaAutomation_TheXFuture.EnterpriseDashboardTest"/>-->
+<!--            <class name="qaAutomation_TheXFuture.StartupDashboardTest"/>-->
+<!--            <class name="qaAutomation_TheXFuture.UseCaseSharingTest"/>-->
+<!--            <class name="qaAutomation_TheXFuture.AdminAddCompanyTest"/>-->
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
