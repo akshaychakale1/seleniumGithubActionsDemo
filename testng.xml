@@ -12,7 +12,7 @@
 <!--            <class name="qaAutomation_TheXFuture.TxfAdminTest"/>-->
 <!--            <class name="qaAutomation_TheXFuture.EnterpriseDashboardTest"/>-->
 <!--            <class name="qaAutomation_TheXFuture.StartupDashboardTest"/>-->
-<!--            <class name="qaAutomation_TheXFuture.UseCaseSharingTest"/>-->
+           <class name="qaAutomation_TheXFuture.UseCaseSharingTest"/>
 <!--            <class name="qaAutomation_TheXFuture.AdminAddCompanyTest"/>-->
         </classes>
     </test> <!-- Test -->
